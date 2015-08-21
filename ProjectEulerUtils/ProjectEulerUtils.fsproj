@@ -7,8 +7,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>18d1246a-0e94-4826-9e7f-465afc97b7a5</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>EMFSharpUtils</RootNamespace>
-    <AssemblyName>EMFSharpUtils</AssemblyName>
+    <RootNamespace>ProjectEulerUtils</RootNamespace>
+    <AssemblyName>ProjectEulerUtils</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFSharpCoreVersion>4.3.1.0</TargetFSharpCoreVersion>
     <Name>ProjectEulerUtils</Name>
@@ -21,7 +21,7 @@
     <OutputPath>bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
-    <DocumentationFile>bin\Debug\EMFSharpUtils.XML</DocumentationFile>
+    <DocumentationFile>bin\Debug\ProjectEulerUtils.XML</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -30,7 +30,7 @@
     <OutputPath>bin\Release\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
-    <DocumentationFile>bin\Release\EMFSharpUtils.XML</DocumentationFile>
+    <DocumentationFile>bin\Release\ProjectEulerUtils.XML</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
