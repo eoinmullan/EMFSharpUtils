@@ -2,6 +2,7 @@ version: 1.0.{build}
 
 build:
   project: ProjectEulerUtils.sln
+  publish_nuget: true
   verbosity: minimal
 deploy:
   provider: NuGet
