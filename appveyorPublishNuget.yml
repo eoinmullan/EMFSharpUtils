@@ -1,0 +1,14 @@
+version: 1.0.{build}
+	
+build:
+  project: ProjectEulerUtils.sln
+  verbosity: minimal
+deploy:
+  provider: NuGet
+  api_key:
+    secure: m49OJ7+Jdt9an3jPcTukHA==
+  skip_symbols: true
+  artifact: /.*\.nupkg/
+environment:
+  nugetApiKey:
+    secure: t6FTTAf6BuQj1v/zHiYJcSGnKIqyuYh0vabCR9ZBDDkTWvJwkXJnLuwdOah3z7SL
