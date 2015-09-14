@@ -6,7 +6,7 @@ open System.Reflection
 [<assembly: AssemblyDescription("A collection of functionality that helps solve the problems on Project Euler.")>]
 [<assembly: AssemblyCompany("Eoin Mullan")>]
 
-[<assembly: AssemblyVersion("1.0.0.0")>]
-[<assembly: AssemblyFileVersion("1.0.0.0")>]
+[<assembly: AssemblyVersion("1.0.1.0")>]
+[<assembly: AssemblyFileVersion("1.0.1.0")>]
 
 ()
